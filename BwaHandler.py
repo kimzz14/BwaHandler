@@ -1,5 +1,6 @@
 class BwaHandler:
     def __init__(self):
+        print(aaaa)
         pass
 
     def check(self):
